@@ -64,7 +64,7 @@ function ir_home(){
     sessionStorage.setItem('nombres', JSON.stringify(nombres)); 
     sessionStorage.setItem('select', select.value);
     
-    window.location.href = '../index.html';
+    window.location.href = './index.html';
 }
 
 // Variables
